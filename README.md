@@ -84,7 +84,7 @@ TWILIO_PHONE_NUMBER=<your_twilio_phone_number>
 ### Run the App
 
 ```bash
-npm start
+node app.js
 ```
 
 Your app should now be running at `http://localhost:3000`.
