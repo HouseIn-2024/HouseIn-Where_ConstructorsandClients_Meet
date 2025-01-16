@@ -3,6 +3,7 @@ Absolutely! Here's the updated **README.md** content with the integration of the
 ---
 
 # HouseIn: Where Clients and Constructors Meet
+                          -By U.Gnana Sree,B.Harini,K.Vaishnavi
 
 **HouseIn** is a platform designed to bridge the gap between clients looking to build or renovate their homes and professional constructors. Our goal is to make the process of finding reliable, experienced constructors easy and transparent. Whether you're looking to build a new house, renovate your existing one, or handle smaller construction projects, HouseIn connects you with the right professionals.
 
@@ -11,15 +12,13 @@ Absolutely! Here's the updated **README.md** content with the integration of the
 - **Client-Constructor Matching**: Clients can easily find constructors who specialize in the type of work they need, based on location, budget, and project type.
 - **Constructor Profiles**: Constructors can create detailed profiles showcasing their skills, past projects, reviews, and contact information.
 - **Transparent Reviews**: Clients can leave reviews and ratings to help others make informed decisions.
-- **Secure Messaging**: Clients and constructors can communicate through secure, in-app messaging to discuss project details and quotes.
-- **Easy Project Management**: Both clients and constructors can track project progress, set milestones, and manage timelines within the platform.
 - **Affordable Pricing**: Get competitive pricing from trusted professionals, with no hidden costs.
 - **Direct Calling with Twilio API**: Clients can call constructors directly using the **Twilio API**, maintaining privacy for both parties. This feature uses a **proxy phone number system**, ensuring that the actual phone numbers of clients and constructors are not exposed, keeping sensitive contact information private.
 
 ## How It Works
 
 1. **Sign Up**: Create a free account as either a client or a constructor.
-2. **Create a Project**: Clients can post their construction projects with details such as type of work, location, and budget.
+2. **Create a Profile**: Constructors can post their construction projects with details such as type of work, location, and budget.
 3. **Browse Constructors**: Clients can search for constructors based on location, skills, ratings, and past projects.
 4. **Request Quotes**: Clients can request quotes from multiple constructors to compare prices and services.
 5. **Choose and Communicate**: Once a constructor is selected, clients and constructors can discuss project specifics, timelines, and costs. 
@@ -89,9 +88,12 @@ node app.js
 
 Your app should now be running at `http://localhost:3000`.
 
-## Contributing
+## Contributors
 
-We welcome contributions! To contribute, please fork the repository, create a feature branch, and submit a pull request.
+- [HariniBandari](https://github.com/HariniBandari)
+- [k-vaishnavi11](https://github.com/k-vaishnavi11)
+- [gnana27022003](https://github.com/gnana27022003)
+
 
 ### Steps to contribute:
 1. Fork the repository.
