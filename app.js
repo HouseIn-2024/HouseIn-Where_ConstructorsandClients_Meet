@@ -42,7 +42,8 @@ app.use(workeroute);
 app.use(basicroute);
 
 require('dotenv').config();
-const accountSid = process.env.TWILIO_ACCOUNT_SID;
+//Remove the below comments if you want to use call feature for your project
+/*const accountSid = process.env.TWILIO_ACCOUNT_SID;
 const authToken = process.env.TWILIO_AUTH_TOKEN;
 const twilioNumber = process.env.TWILIO_NUMBER;
 
@@ -85,14 +86,8 @@ app.post('/connect-client', (req, res) => {
 
     res.type('text/xml');
     res.send(twilioResponse.toString());
-});
+});*/
 
 server.listen(3000, () => {
     console.log('Server is running on port 3000');
-});
-
-
-
-server.listen(3001, () => {
-    console.log("Server running at http://localhost:3001");
 });
