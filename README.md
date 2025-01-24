@@ -3,7 +3,7 @@ Absolutely! Here's the updated **README.md** content with the integration of the
 ---
 
 # HouseIn: Where Clients and Constructors Meet
- -By U.Gnana Sree,B.Harini,K.Vaishnavi
+               -By U.Gnana Sree,B.Harini,K.Vaishnavi
 
 **HouseIn** is a platform designed to bridge the gap between clients looking to build or renovate their homes and professional constructors. Our goal is to make the process of finding reliable, experienced constructors easy and transparent. Whether you're looking to build a new house, renovate your existing one, or handle smaller construction projects, HouseIn connects you with the right professionals.
 
