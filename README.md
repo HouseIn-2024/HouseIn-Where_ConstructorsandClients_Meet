@@ -3,7 +3,7 @@ Absolutely! Here's the updated **README.md** content with the integration of the
 ---
 
 # HouseIn: Where Clients and Constructors Meet
-                          -By U.Gnana Sree,B.Harini,K.Vaishnavi
+ -By U.Gnana Sree,B.Harini,K.Vaishnavi
 
 **HouseIn** is a platform designed to bridge the gap between clients looking to build or renovate their homes and professional constructors. Our goal is to make the process of finding reliable, experienced constructors easy and transparent. Whether you're looking to build a new house, renovate your existing one, or handle smaller construction projects, HouseIn connects you with the right professionals.
 
@@ -101,10 +101,6 @@ Your app should now be running at `http://localhost:3000`.
 3. Commit your changes (`git commit -am 'Add new feature'`).
 4. Push to your branch (`git push origin feature-name`).
 5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
