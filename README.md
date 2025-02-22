@@ -63,6 +63,11 @@ To get started, follow these simple steps:
 git clone https://github.com/HouseIn-2024/HouseIn-Where_ConstructorsandClients_Meet.git
 ```
 
+### Software Requirements
+- Frontend : HTML,CSS,Javascript as in .ejs format
+- Backend : Nodejs,Expressjs
+
+
 ### Install Dependencies
 
 ```bash
