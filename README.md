@@ -64,8 +64,8 @@ git clone https://github.com/HouseIn-2024/HouseIn-Where_ConstructorsandClients_M
 ```
 
 ### Software Requirements
-- Frontend : HTML,CSS,Javascript as in .ejs format
-- Backend : Nodejs,Expressjs
+- **Frontend** : HTML,CSS,Javascript as in .ejs format
+- **Backend** : Nodejs,Expressjs
 
 
 ### Install Dependencies
