@@ -3,7 +3,7 @@ Absolutely! Here's the updated **README.md** content with the integration of the
 ---
 
 # HouseIn: Where Clients and Constructors Meet
-                            -By A.Divya,B.Harini,K.Vaishnavi,U.Gnana Sree
+                            -By B.Harini,K.Vaishnavi,U.Gnana Sree
 
 **HouseIn** is a platform designed to bridge the gap between clients looking to build or renovate their homes and professional constructors. Our goal is to make the process of finding reliable, experienced constructors easy and transparent. Whether you're looking to build a new house, renovate your existing one, or handle smaller construction projects, HouseIn connects you with the right professionals.
 
@@ -97,7 +97,6 @@ Your app should now be running at `http://localhost:3000`.
 
 - [HariniBandari](https://github.com/HariniBandari)
 - [k-vaishnavi11](https://github.com/k-vaishnavi11)
-- [divyaardham](https://github.com/divyaardham)
 - [gnana2702003](https://github.com/gnana27022003)
 
 
