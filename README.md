@@ -110,3 +110,27 @@ Your app should now be running at `http://localhost:3000`.
 ---
 
 By incorporating the **Twilio API** with proxy phone numbers, this update ensures both **privacy** and **secure communication** between clients and constructors. You can adjust the Twilio setup instructions based on your actual integration flow and how you plan to use the API in the project!
+
+### Screenshots of Frontend
+![image](https://github.com/user-attachments/assets/34616515-7d53-4430-b3ee-68eaccf64cc1)
+![image](https://github.com/user-attachments/assets/84778a7b-2895-4cde-82a3-be9afc001c45)
+![image](https://github.com/user-attachments/assets/cf2ed3d5-e517-4d10-840a-34ada0c8bbca)
+![image](https://github.com/user-attachments/assets/5835c266-0417-4d72-9223-514cb08dcb94)
+![image](https://github.com/user-attachments/assets/613fd429-ee32-48fd-8d38-c91b3775a70a)
+![image](https://github.com/user-attachments/assets/aca74d44-82c4-4251-86fc-eedd46ab6983)
+![image](https://github.com/user-attachments/assets/f914f546-288c-41cf-af36-87c922eebb3a)
+![image](https://github.com/user-attachments/assets/418629d1-1374-422e-8b43-d06b4d5c6a84)
+![image](https://github.com/user-attachments/assets/241f2234-f00c-4850-93d4-03b028c5b8dd)
+![image](https://github.com/user-attachments/assets/61579530-472d-40bb-9b82-c8d90138d9a1)
+![image](https://github.com/user-attachments/assets/b6194728-4693-4c9e-85dc-ee1e41925de8)
+![image](https://github.com/user-attachments/assets/59c8cba5-1b5a-4b1f-8c83-323e03758e1d)
+![image](https://github.com/user-attachments/assets/4dc1f3e9-e296-47b5-90e4-5181852dc586)
+![image](https://github.com/user-attachments/assets/eab90824-d9eb-427b-9d1e-75b1f1dc799b)
+![image](https://github.com/user-attachments/assets/524f7af0-10de-4919-8849-802423f44e21)
+![image](https://github.com/user-attachments/assets/2362805e-d46e-49aa-8760-9455b52a9884)
+![image](https://github.com/user-attachments/assets/61fde59d-c755-4fe4-81cb-9615b97343bd)
+
+
+
+
+
