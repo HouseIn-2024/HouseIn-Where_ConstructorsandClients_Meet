@@ -8,11 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
             openPopup();
         });
     }
-    
 });
-
-
-
 function openPopup() {
     const popup = document.getElementById('popup');
     if (popup) {
